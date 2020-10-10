@@ -1,0 +1,10 @@
+============================= test session starts =============================
+platform win32 -- Python 3.7.1, pytest-5.4.1, py-1.8.0, pluggy-0.12.0
+spark version -- Spark 3.0.0 (git revision 3fdfce3120) built for Hadoop 2.7.4 | Build flags: -B -Pmesos -Pyarn -Pkubernetes -Psparkr -Pscala-2.12 -Phadoop-2.7 -Phive -Phive-thriftserver -DzincPort=3036
+rootdir: C:\Users\Lenovo\eclipse-workspace\AutomateAPI
+plugins: spark-0.6.0
+collected 4 items
+
+tests\users\test_get_users.py ....                                       [100%]
+
+============================== 4 passed in 4.74s ==============================
